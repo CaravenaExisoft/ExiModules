@@ -1,0 +1,6 @@
+{
+  "name": "Smart Dashboard",
+  "description": "An executive management dashboard with interactive modules for Sales, Services, Billing, and Talent management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
